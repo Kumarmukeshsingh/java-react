@@ -15,17 +15,7 @@ Welcome to the Fullstack E-Commerce Shopping Project repository! This project is
 - **Build Tools**: Maven, Webpack
 
 
-## Videos
-- 1.https://youtu.be/p8tBD3YTCPo
-- 2.https://youtu.be/LdEO5nPOaa0
-- 3.https://youtu.be/4nGZQbY8QTI
-- 4.https://youtu.be/C-JTLiisKJ4
-- 5.https://youtu.be/ew4IhNzDkkE
-- 6.https://youtu.be/MutS1GVvCnQ
-- 7.https://youtu.be/ctcvf8sy2PI
-- 8.https://youtu.be/jan3L-PhQBM
-- 9.https://youtu.be/NFpnxve3rDY
-- 10.https://youtu.be/jetR7cQJKHM
+ 
 
 ## 🚧 Current Status
 Completed
@@ -62,7 +52,7 @@ Completed
 
 ## Youtube Tutorials
 
-[![Video](https://github.com/user-attachments/assets/e03b915e-774b-4af1-86e1-f1507a3fda66)](https://youtu.be/p8tBD3YTCPo?si=URRMPcDVeAW3a5zS)
+ 
 
 ## Support the Creator
 
